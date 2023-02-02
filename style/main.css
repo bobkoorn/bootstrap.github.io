@@ -1,0 +1,30 @@
+@media (max-width: 576px) {
+    .container {
+      padding:0;
+      margin:0;
+    }
+}
+
+h1 {
+    text-transform:uppercase;
+    color:lightgrey;
+}
+
+article {
+    background-color: #929fba;
+}
+
+footer {
+    color:lightgrey;
+    min-height:200px;
+    background-color:darkgrey;
+    align-items:center;
+}
+
+#copyright {
+    height:100%;
+}
+
+.navbar {
+    padding: 0rem;
+}
